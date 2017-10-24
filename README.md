@@ -29,9 +29,7 @@ At this time, CocoaPods support for Swift frameworks is supported in a [pre-rele
 To use ABSteppedProgressBar in your project add the following 'Podfile' to your project
 
 ```
-source 'https://github.com/CocoaPods/Specs.git'
-
-pod 'ABSteppedProgressBar'
+pod 'ABSteppedProgressBar', :git => 'https://github.com/tiagoapolo/ABSteppedProgressBar.git'
 ```
 
 Run:
