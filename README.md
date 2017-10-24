@@ -11,9 +11,9 @@ ABSteppedProgressBar is animated and customisable stepped progress bar for iOS w
 
 ## Example
 
-First thing is to import the framework. See the Installation instructions, on how to add the framework to your project.
+`First things First` is to import the framework. See the Installation instructions, on how to add the framework to your project.
 
-Run the Exemple project to see it in action !
+Run the Example project to see it in action !
 
 ## Requirements
 
@@ -46,10 +46,10 @@ import ABSteppedProgressBar
 
 ## License
 
-ABSteppedProgressBar is licensed under the MIT License.
+ABSteppedProgessBar is licensed under the MIT License.
 
 ## Contact
+* https://twitter.com/tiagoapolo
 
-### Antonin Biret
-* https://github.com/antoninbiret
+### Forked from Antonin Biret
 * https://twitter.com/antonin_brt
